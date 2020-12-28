@@ -1,0 +1,100 @@
+/*FUENTE USADA EN PAGINA*/
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Pacifico|Ranga&display=swap');
+
+body{
+	font-family: 'Montserrat', sans-serif;
+}
+/*Header*/
+.navbar{
+	background-color: #dedede;
+	color: white;
+	position: relative;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+}
+.textmeson{
+	font-family: 'Pacifico';
+	color: #c10000;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin-top: 5px;
+	margin-bottom: 0px;
+}
+.atextmeson:hover{
+	text-decoration: none;
+}
+navbar-header{
+	background-color: #c10000;
+}
+li>a:hover{
+	color: #c10000;
+}
+.text-center{
+	text-align: center;
+}
+.nopaddingmarging{
+	padding: 0px;
+	margin: 0px;
+}
+.ourhistory{
+	background-color: #ff4949;
+	color: white;
+	padding-bottom: 10px;
+	margin-top: 0px;
+}
+/*Cierre header*/
+a{
+	color: #c10000;
+}
+a:hover{
+	color: #c10000;
+}
+.imgservi{
+	padding-top: 5px;
+}
+.noticias{
+	margin-top: 10px;
+
+
+	padding-bottom: 10px;
+}
+.noticias>p>a{
+	color: white;
+	text-decoration: underline;
+}
+.promo{
+	margin-top: 10px;
+	background-color: #c72c41;
+	h
+	padding-bottom: 10px;
+	color: white;
+}
+.promo>h1{
+	text-align: right;
+}
+.aprom{
+	color: white;
+}
+.aprom:hover{
+	color: white;
+	text-decoration: underline;
+}
+.imgpromo{
+	padding-bottom: 10px;
+}
+.btn-primary{
+	background-color: #c10000;
+}
+.btn-primary:hover{
+	background-color: #c72c41;
+	transform: scale(1.5);
+}
+
+footer{
+	margin-top: 20px;
+	text-align: center;
+	padding-bottom: 15px;
+	background: #c10000;
+	color: white;
+}

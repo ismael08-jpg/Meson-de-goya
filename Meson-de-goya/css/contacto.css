@@ -1,0 +1,149 @@
+/*FUENTE USADA EN PAGINA*/
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Pacifico|Ranga&display=swap');
+
+body{
+	font-family: 'Montserrat', sans-serif;
+}
+/*Header*/
+.navbar{
+	background-color: #dedede;
+	color: white;
+	position: relative;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+}
+.textmeson{
+	font-family: 'Pacifico';
+	color: #c10000;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin-top: 5px;
+	margin-bottom: 0px;
+}
+navbar-header{
+	background-color: #c10000;
+}
+li>a:hover{
+	color: #c10000;
+}
+.text-center{
+	text-align: center;
+}
+.nopaddingmarging{
+	padding: 0px;
+	margin: 0px;
+}
+.ourhistory{
+	background-color: #ff4949;
+	color: white;
+	padding-bottom: 10px;
+	margin-top: 0px;
+}
+a{
+	color: #dedede;
+}
+a:hover{
+	color: #064acb;
+	text-decoration: none;
+}
+/*Cierre header*/
+form{
+	margin: auto;
+	background: #fff;
+	max-width: 1000px;
+	padding: 30px;
+	margin-top: 20px;
+	box-shadow: 0px 0px 6px grey;
+	border-radius: 6px;
+	box-sizing: border-box;
+}
+.tittle{
+	color: #B40404;	
+	text-align: center;
+	margin: 0px;
+	font-size: 40px;
+	margin-bottom: 20px;
+}
+.intro{
+	text-align: center;
+	margin-bottom: 40px;
+	font-size: 18px;
+}
+input, textarea{
+	font-size: 18px;
+	color: #151515;
+	width: 100%;
+	border: none;
+	border-bottom: 1px solid #B40404;
+	outline: none;
+	padding: 15px;
+}
+textarea{
+	min-height: 140px;
+	max-height: 150px;
+	max-width: 100%;
+}
+#boton{
+	background: #B40404;
+	border-radius: 1px;
+	border: 2px solid #f2f2f2f2;
+	color: #fff;
+	cursor: pointer;
+	font-family: Roboto;
+	font-size: 18px;
+	width: 100%;
+	padding: 15px;
+	-webkit-transition:all .3s ease;
+	-moz-transition:all .3s ease;
+	-o-transition:all .3s ease;
+	transition:all .3s ease;
+}
+#boton:hover{
+	cursor: pointer;
+	background: #DF3A01;
+}
+.info{
+	text-align: justify;
+	font-size: 18px;
+}
+img{
+	box-shadow: 0px 0px 6px grey;
+}
+.img1{
+	box-shadow: none;
+	width: 20px;
+}
+
+.calcu
+{
+	width: 100%
+	background-color: gold;
+}
+.pantalla
+{
+	width: 100%;
+	height: 80px;
+	font-size: 30px;
+}
+
+.pantalla0
+{
+	background-color: skyblue;
+	overflow: scroll;
+
+}
+
+div	input
+{
+	height: 60px;
+	
+}
+
+footer{
+	margin-top: 20px;
+	text-align: center;
+	padding-bottom: 15px;
+	background: #c10000;
+	color: white;
+}
